@@ -1,0 +1,10 @@
+[package]
+name = "linux-gpib-sys"
+version = "0.1.0"
+authors = ["Erin Moon <erin@hashbang.sh>"]
+links = "gpib"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.43"
